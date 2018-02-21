@@ -10,13 +10,17 @@ description on the applicaiton.
 <img src="screenshot/1.PNG" data-canonical-src="screenshot/1.PNG" width="400" height="400" />
 Figure 1: Show the map with multiple marker on it
 <br />
+
 ---
+
 Figure 2 show in close view of the marker
 
 <img src="screenshot/2.PNG" data-canonical-src="screenshot/2.PNG" width="250" height="200" />
 Figure 2: Show two marker with using different image
 <br />
+
 ---
+
 Figure 3 and figure 4 show the description for both marker in figure 2.
 
 <img src="screenshot/3.PNG" data-canonical-src="screenshot/3.PNG" width="250" height="200" />
