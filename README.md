@@ -30,7 +30,9 @@ Figure 3: The description on first marker
 <img src="screenshot/4.PNG" data-canonical-src="screenshot/4.PNG" width="250" height="200" />
 Figure 4: The description on second marker
 <br />
+
 ---
+
 Figure 5 Show the line of code for the marker icon image in the coding. The marker can be change 
 where you will only need to copy your image into the folder and change the name in the line in 
 the figure 5. 
