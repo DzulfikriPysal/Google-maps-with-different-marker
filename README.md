@@ -7,7 +7,7 @@ Figure 1 show 4 different marker type on the map where each of this marker have 
 This can help to develop an web application that require a multiple marker that have it own 
 description on the applicaiton.
 
-<img src="screenshot/1.PNG" data-canonical-src="screenshot/1.PNG" width="400" height="400" />
+<img src="screenshot/1.PNG" data-canonical-src="screenshot/1.PNG" width="400"  />
 Figure 1: Show the map with multiple marker on it
 <br />
 
@@ -15,7 +15,7 @@ Figure 1: Show the map with multiple marker on it
 
 Figure 2 show in close view of the marker
 
-<img src="screenshot/2.PNG" data-canonical-src="screenshot/2.PNG" width="250" height="200" />
+<img src="screenshot/2.PNG" data-canonical-src="screenshot/2.PNG" width="250"  />
 Figure 2: Show two marker with using different image
 <br />
 
@@ -23,11 +23,11 @@ Figure 2: Show two marker with using different image
 
 Figure 3 and figure 4 show the description for both marker in figure 2.
 
-<img src="screenshot/3.PNG" data-canonical-src="screenshot/3.PNG" width="250" height="200" />
+<img src="screenshot/3.PNG" data-canonical-src="screenshot/3.PNG" width="250"/>
 Figure 3: The description on first marker
 <br />
 
-<img src="screenshot/4.PNG" data-canonical-src="screenshot/4.PNG" width="250" height="200" />
+<img src="screenshot/4.PNG" data-canonical-src="screenshot/4.PNG" width="250"  />
 Figure 4: The description on second marker
 <br />
 
