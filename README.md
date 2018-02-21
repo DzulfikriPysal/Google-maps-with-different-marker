@@ -41,7 +41,7 @@ the figure 5.
 Figure 5: predefined  location for the marker
 <br />
 
-<img src="screenshot/6.PNG" data-canonical-src="screenshot/6.PNG" width="250" height="200" />
+<img src="screenshot/6.PNG" data-canonical-src="screenshot/6.PNG" />
 Figure 6: predefined icon for the marker
 <br />
 
