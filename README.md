@@ -1,14 +1,14 @@
 # Google-maps-with-different-marker
 map with multiple marker where each marker have different pointer type and description on it
-__
+
 <img src="screenshot/1.PNG" data-canonical-src="screenshot/1.PNG" width="400" height="400" />
 Figure 1: Show the map with multiple marker on it
 <br />
-__
+
 <img src="screenshot/2.PNG" data-canonical-src="screenshot/2.PNG" width="250" height="200" />
 Figure 2: Show two marker with using different image
 <br />
-__
+
 <img src="screenshot/3.PNG" data-canonical-src="screenshot/3.PNG" width="250" height="200" />
 Figure 3: The description on first marker
 <br />
