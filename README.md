@@ -1,7 +1,9 @@
 # Google-maps-with-different-marker
 map with multiple marker where each marker have different pointer type and description on it
 
-> Figure 1 show 4 different marker type on the map where each of this marker have it own description
+---
+
+Figure 1 show 4 different marker type on the map where each of this marker have it own description
 This can help to develop an web application that require a multiple marker that have it own 
 description on the applicaiton.
 
